@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Nitesh Singh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Software Engineer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | .NET Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nitesh2203">
-    <img src="https://komarev.com/ghpvc/?username=nitesh2203&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=nitesh2203&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -11,115 +12,150 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Information Technology at Swami Keshvanand Institute of Technology
-- 💻 Passionate Full Stack Developer with expertise in MERN Stack
-- 🌱 Currently exploring System Design, Cloud Computing, and AI Integration
-- 🔭 Building scalable web applications and AI-powered solutions
-- 👨‍💻 Solved 150+ LeetCode problems and 100+ GeeksforGeeks problems
-- 🎯 Interested in Software Development, Web Development, and Open Source
-- 📫 Reach me at **niteshsingh2203.dev@gmail.com**
+🎓 Final Year B.Tech (Information Technology) Student
+
+💻 Full Stack Developer with experience building scalable web applications, real-time systems, REST APIs, and AI-powered solutions.
+
+🔹 Skilled in MERN Stack, .NET Core, FastAPI, Flask, SQL Server, MongoDB, and modern frontend technologies.
+
+🔹 Solved 250+ DSA problems and earned the 100 Days LeetCode Badge.
+
+🔹 Passionate about Software Engineering, Backend Development, AI Integration, and System Design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
-### Other Technologies
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 💼 Experience
+
+### 🚀 Node.js Intern | Celebal Technologies
+**May 2025 – July 2025**
+
+- Built scalable backend applications using Node.js and Express.js.
+- Implemented JWT Authentication and secure REST APIs.
+- Worked on backend architecture and API development.
+
+### 💻 Frontend Developer Intern | Mahaveer Enterprises
+**Feb 2025 – May 2025**
+
+- Developed a product showcase platform from scratch.
+- Managed and structured 500+ products.
+- Built responsive UI using HTML, CSS, and JavaScript.
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 💬 Chatty – Real-Time Chat Application
-- Real-time messaging using Socket.io
-- JWT Authentication & Authorization
+
+- MERN Stack + Socket.io
+- JWT Authentication
 - Cloudinary Image Uploads
-- 32 DaisyUI Themes
-- MERN Stack
+- 32 Custom Themes using DaisyUI
+- Real-Time Messaging System
 
-### 🛡️ Cyber Guard
-- Security-focused web application
-- User authentication and secure APIs
-- Real-time threat monitoring concepts
+### 👨‍💻 SynCode – Collaborative Code Editor
 
-### 🩺 AI Skin Disease Detection System
-- AI-powered skin disease prediction
-- Machine Learning-based classification
-- User-friendly diagnostic interface
+- Real-time multi-user code collaboration
+- Monaco Editor Integration
+- JDoodle API for code execution
+- WebSockets + JWT Authentication
+- Dark/Light Theme Support
 
-### 🌿 Virtual Herbal Garden
-- Interactive educational platform for medicinal plants
-- React.js + Three.js integration
-- AYUSH-focused learning experience
+### 🛡 CyberGuard – Threat Intelligence Platform
 
-### 🛒 E-Commerce Application
-- Product showcase and management
-- Dynamic routing with React Router
-- Responsive UI design
+- ASP.NET Core Web API + React Dashboard
+- Real-Time Threat Monitoring
+- SignalR Live Alerts
+- Role-Based Access Control
+- CVE/CVSS Vulnerability Tracking
+- Immutable Audit Logs
 
----
+### 🩺 DermAI – AI Skin Disease Detection System
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitesh2203&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh2203&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh2203&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- CNN-based Disease Classification
+- Flask + FastAPI Architecture
+- MongoDB Integration
+- JWT Authentication
+- OpenCV Image Processing
+- High-Speed Prediction APIs
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 100 Days Badge on LeetCode
-- 🧩 150+ Problems Solved on LeetCode
-- 📚 100+ Problems Solved on GeeksforGeeks
-- 💼 Backend Development Internship Experience
-- 🚀 Multiple Full Stack Projects Deployed
+🥇 250+ Problems Solved on LeetCode
+
+🏅 Earned 100 Days LeetCode Badge
+
+🚀 Smart India Hackathon 2024 Participant
+
+📌 Secured 26th Position among 120 Teams
+
+👥 Non-Tech Committee Head – Pravah 2023
+
+📚 CGPA: 8.1+
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
-<p align="left">
-<a href="https://github.com/nitesh2203" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/nitesh-singh-50120a289" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitesh2203&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh2203&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh2203&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐ From [Nitesh Singh](https://github.com/nitesh2203)
+## 🌐 Connect With Me
+
+📧 Email: niteshsingh22032004@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/nitesh-singh-50120a289
+
+💻 GitHub: https://github.com/nitesh2203
+
+📱 Phone: +91 9983643777
+
+---
+
+### "Building scalable software, solving real-world problems, and continuously learning new technologies."
